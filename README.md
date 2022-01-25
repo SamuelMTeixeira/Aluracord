@@ -1,2 +1,2 @@
-# Concord
- Discord clone desenvolvido em react #aluracord
+# Aluracord
+   Projeto criado baseado na Imersão React #alura
