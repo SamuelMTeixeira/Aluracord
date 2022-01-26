@@ -1,0 +1,8 @@
+.index-links, .index-links:visited {
+    margin-left: 10px;
+    text-decoration: none;
+    color: #57AE5B;
+}
+.index-links:hover {
+    color: #3F9142;
+}
