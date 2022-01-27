@@ -6,3 +6,18 @@
 .index-links:hover {
     color: #3F9142;
 }
+.fundo-imagem {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-Image: url(https://images2.alphacoders.com/816/81652.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-blend-mode: multiply;
+}
+.fundo-chat {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #313D49;
+}

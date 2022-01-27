@@ -33,15 +33,7 @@ export default function Main() {
     return (
         <>
             {/* BACKGROUND */}
-            <Box styleSheet={{
-                display: "flex",
-                alignItems: "center",
-                justifyContent: "center",
-                backgroundImage: "url(https://images2.alphacoders.com/816/81652.jpg)",
-                backgroundSize: "cover",
-                backgroundRepeat: "no-repeat",
-                backgroundBlendMode: "multiply",
-            }}>
+            <Box className="fundo-imagem">
 
                 {/* FUNDO CONTEÚDO */}
                 <Box
